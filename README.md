@@ -1,16 +1,27 @@
-### Hi there 👋
+### ¡Hola! Soy Daniel Villarraga 👋
 
 <!--
-**daniel100f/daniel100f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Puedes encontrame en:
+-www.linkedin.com/in/daniel-fernando-villarraga-salgado-a062771bb
 
-Here are some ideas to get you started:
+### Conocimientos:
+-Html
+-Css
+-JavaScript
+-React js
+-Redux
+-Node js
+-Express js
+-Sql
+-PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Pasatiempos:
+-Leer
+-Tocar guitarra
+-Montar bicicleta 
+-Jugar Fútbol
+
+### Certifiaciones: 
+-Tecnologo en analisis y desarrollo de sistemas de información
+-Desarrollador Full Stack Web
