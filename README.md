@@ -3,6 +3,7 @@
 
 ### Puedes encontrame en:
 -www.linkedin.com/in/daniel-fernando-villarraga-salgado-a062771bb
+-correo electtronico: danielvillarraga2@gmail.com
 
 ### Conocimientos:
 -Html
